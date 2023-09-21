@@ -1,0 +1,6 @@
+﻿  MfcStart.cpp
+  MfcStartDlg.cpp
+C:\Projects\mfcStudy\MfcStart\MfcStartDlg.cpp(173,19): warning C4002: 함수 같은 매크로 호출 '_T'에 대해 인수가 너무 많습니다.
+  코드를 생성하고 있습니다...
+MfcStartDlg.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+  MfcStart.vcxproj -> C:\Projects\mfcStudy\MfcStart\Debug\MfcStart.exe
